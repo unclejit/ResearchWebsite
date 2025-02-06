@@ -1,0 +1,21 @@
+h2 {
+    background-color: #cdebe1;
+    color: #616d6d;
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+li{
+    background-color: #cdebe1;
+}
+.thing1 {
+    background-color: #c27c8a;
+    color: #21214d;
+}
+#thing2 {
+    background-color: #acc2d4;
+    color: #067e7a;
+}
