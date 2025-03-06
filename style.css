@@ -19,3 +19,16 @@ li{
     background-color: #acc2d4;
     color: #067e7a;
 }
+.header {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: fantasy;
+    transition: color 1s;
+}
+.header:hover {
+    color:skyblue
+}
+.main {
+    text-align: center;
+}
